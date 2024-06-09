@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="verde">#D292DC3C</color>
+    <color name="corsecundaria">#B8D6E4</color>
+    <color name="amarelo">#FFEB3B</color>
+    <color name="vermelho">#FF4C4C</color>
+    <color name="roxo">#A45FCD</color>
+    <color name="amarelo1">#F4EDAD</color>
+
+</resources>
